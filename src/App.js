@@ -10,7 +10,7 @@ function App() {
       39a7522c-b580-4f2e-9b8f-21e83d15331f"
       userName="Shashank Sola"
       userSecret="12345678"
-      renderChatFeed={(chatAppProps) => <ChatFeed {...chatAppProps}/>}
+      renderChatFeed={(chatAppProps) => <ChatFeed {...chatAppProps} />}
     />
   );
 }
